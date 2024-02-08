@@ -30,5 +30,12 @@ Did some pixel scaling and feature extraction!
 ### Gaussian Kernel Convolution
 ![Alt text](images/gaussaiankernelimg.png)
 
+## Feature Detection and extraction
 
+![Alt text](images/f1.png)
 
+![Alt text](images/f2.png)
+
+![Alt text](images/f3.png)
+
+![Alt text](images/f4.png)
